@@ -39,9 +39,13 @@ To install the required dependencies witout poetry, use the following command:
 
 
 
-### Exploring Ridge Regression - Analytical Solution
+# Exploring Ridge Regression - Analytical Solution
 
 For this exploration, I'll delve into ridge regression, a regularization technique used in linear regression to prevent overfitting. Our dataset consists of 2D coordinates of cities in Europe, with labels indicating the corresponding countries. 
+
+
+**To view my interpretations of the topics I am going to discuss, please refer to the "report" PDF file and navigate to the corresponding sections.**
+
 
 #### Approach:
 1. **Implement Ridge Regression**: I'll implement the analytical solution for ridge regression, optimizing a linear regression model by minimizing the regularized loss function.
